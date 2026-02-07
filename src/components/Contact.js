@@ -25,7 +25,7 @@ const Contact = () => {
       icon: '💼',
       title: 'LinkedIn',
       value: 'Connect with me',
-      link: 'https://linkedin.com/in/samarjai8685',
+      link: 'https://www.linkedin.com/in/samarth-jain-a8643928a/',
       color: '#0A66C2'
     },
     {

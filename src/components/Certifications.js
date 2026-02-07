@@ -15,10 +15,10 @@ const Certifications = () => {
       icon: '☁️',
       details: 'ACE-Endorsed (6 College Credits) - Cloud deployment, Compute Engine, GKE, VPC networking, DevOps, Vertex AI',
       color: '#4285F4',
-      certificateImage: 'https://via.placeholder.com/1000x700/4285F4/ffffff?text=Google+Cloud+Engineering+Certificate',
-      credentialID: 'GCP-ACE-2025-XXXX',
+      certificateImage: '/certificates/google-cloud.png', // Place your certificate in public/certificates/
+      
       skills: ['Cloud Computing', 'Google Cloud Platform', 'Compute Engine', 'Kubernetes', 'DevOps', 'Vertex AI'],
-      verifyLink: '#'
+      verifyLink: 'https://www.skills.google/public_profiles/af79832a-a1b3-4e49-bcfe-8ce50551fdf4/badges/14378874?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share' // Replace with actual verification link
     },
     {
       title: 'Prompt Engineering & OpenAI',
@@ -27,10 +27,10 @@ const Certifications = () => {
       icon: '🤖',
       details: 'Built AI applications with OpenAI API, LangChain, LlamaIndex. Mastered prompt engineering techniques',
       color: '#00A67E',
-      certificateImage: 'https://via.placeholder.com/1000x700/00A67E/ffffff?text=Columbia+University+AI+Certificate',
-      credentialID: 'CU-AI-2025-XXXX',
+      certificateImage: '/certificates/columbia-ai.png', // Place your certificate in public/certificates/
+      
       skills: ['AI', 'OpenAI API', 'LangChain', 'LlamaIndex', 'Prompt Engineering'],
-      verifyLink: '#'
+      verifyLink: 'https://badges.plus.columbia.edu/0a21fe32-f014-4a0b-9dff-9ccfd1aec25c#acc.Qo7D8hFA'
     },
     {
       title: 'JECRC HackQuest 8.0',
@@ -39,10 +39,10 @@ const Certifications = () => {
       icon: '🏆',
       details: 'Prize Winner - 36-hour hackathon. Developed innovative technical solution',
       color: '#FF6B6B',
-      certificateImage: 'https://via.placeholder.com/1000x700/FF6B6B/ffffff?text=JECRC+HackQuest+8.0+Winner+Certificate',
-      credentialID: 'JECRC-HQ8-2025-WINNER',
+      certificateImage: '/certificates/hackquest.jpeg', // Place your certificate in public/certificates/
+      
       skills: ['Problem Solving', 'Team Collaboration', 'Innovation', 'Full-Stack Development'],
-      verifyLink: '#'
+      
     }
   ];
 

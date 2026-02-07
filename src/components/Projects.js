@@ -19,8 +19,8 @@ const Projects = () => {
       
       githubLink: '#', // Add your GitHub link here
       images: [
-        'D:\samarth-portfolio-react\public\Screenshot 2026-02-03 214245.png',
-        'D:\samarth-portfolio-react\public\Screenshot 2026-02-07 133652.png',
+        'D:/samarth-portfolio-react/public/Screenshot 2026-02-03 214245.png',
+        'D:/samarth-portfolio-react/public/Screenshot 2026-02-07 133652.png',
         'https://via.placeholder.com/800x500/f093fb/ffffff?text=Analytics+View'
       ],
       fullDescription: 'EVOLVE-X is a comprehensive AI-powered internship allocation system that uses advanced NLP and genetic algorithms to match students with the perfect internships. The platform analyzes resumes, skills, and preferences to ensure optimal placement while maintaining 100% quota compliance.',
